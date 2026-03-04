@@ -104,7 +104,8 @@
   },
   "pnpm": {
     "overrides": {
-      "devtools-protocol": "0.0.1583009"
+      "devtools-protocol": "0.0.1583009",
+      "basic-ftp": ">=5.2.0"
     },
     "onlyBuiltDependencies": [
       "@cdktf/node-pty-prebuilt-multiarch",
